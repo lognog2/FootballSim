@@ -1,3 +1,4 @@
+# FootballSim v1.4
 *How to navigate the program*
 -
 - Upon starting the program, you will be given the choice to start a game, adjust the settings, or exit the progran.
